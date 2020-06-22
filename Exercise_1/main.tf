@@ -1,6 +1,5 @@
+#AWS cloud provider, region, and credentials(Cloud_Architect)
 provider "aws" {
-  access_key = " "
-  secret_key = " "
   region = "us-east-1"
 }
 # Four(4) AWS t2.micro EC2 instances named Udacity T2
